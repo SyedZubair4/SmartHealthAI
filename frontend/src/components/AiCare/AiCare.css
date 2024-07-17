@@ -1,0 +1,8 @@
+.submitButton{
+    background-color: blanchedalmond;
+    border-radius: 1rem;
+}
+
+.submitButton:hover{
+    cursor: pointer;
+}
