@@ -1,0 +1,29 @@
+.switch{
+    height: 70vh;
+    width: 30vw;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 18, 18);
+    border-radius: 3rem;
+    padding: 3rem;
+    margin-right: 3rem;
+    
+    
+}
+
+.switch .buttons{
+    font-size: 2rem;
+    background-color: rgb(222, 182, 135);
+    border-radius: 2rem;
+    padding: 2rem;
+    margin: 1rem;
+    padding: 2rem;
+    border-color: rgb(93, 52, 6);
+    transition: all 0.2s ease-in-out;
+}
+
+.switch .buttons:hover{
+    background-color: rgb(93, 52, 6);
+    cursor: pointer;
+}
+
