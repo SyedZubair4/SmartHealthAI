@@ -1,0 +1,18 @@
+.queryOfUser{
+    min-width: 100%;
+    min-height: 1rem;
+    padding: 15px;
+    border-radius:5px;
+    outline : none;
+    resize: none;
+    
+ 
+}
+
+.queryOfUser::-webkit-scrollbar{
+    width: 0px;
+}
+
+.queryOfUser:focus{
+    outline: none;
+}

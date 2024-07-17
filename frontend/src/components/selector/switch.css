@@ -27,3 +27,14 @@
     cursor: pointer;
 }
 
+
+.switch .selected-button{
+    font-size: 2rem;
+    background-color: rgb(93, 52, 6);
+    border-radius: 2rem;
+    padding: 2rem;
+    margin: 1rem;
+    padding: 2rem;
+    border-color: rgb(93, 52, 6);
+    
+}

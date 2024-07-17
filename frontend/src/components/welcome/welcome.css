@@ -1,6 +1,6 @@
 .starter{
-    height: 70vh;
-    width: 60vw;
+    min-height: 80vh;
+    min-width: 50vw;
     justify-content: center;
     align-items: center;
     background-color: rgb(19, 18, 18);
